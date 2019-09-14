@@ -1,0 +1,4 @@
+name: Sw_API
+version: 1.0
+author: zSwert_
+main: com.api.swapi.Main
